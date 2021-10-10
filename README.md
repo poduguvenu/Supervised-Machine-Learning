@@ -3,4 +3,4 @@
 2. Regression Setup, Train-test Split
 3. Cross Validation
 4. Regularization and Gradient Descent
-5. 
+5. Regularization
