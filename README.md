@@ -4,3 +4,4 @@
 3. Cross Validation
 4. Regularization and Gradient Descent
 5. Regularization
+6. Avocado Price Pridiction using Different Regression Models
